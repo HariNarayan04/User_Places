@@ -2,8 +2,8 @@
 
 <!-- First Row -->
 <p align="center">
-    <img src="Screenshots/Screenshot%202024-04-07%20124757.png" alt="Screenshot 1" width="300" />
-    <img src="Screenshots/Screenshot%202024-04-07%20124938.png" alt="Screenshot 2" width="300" />
+    <img src="Screenshots/image1.png" alt="Screenshot 1" width="300" />
+    <img src="Screenshots/image2.png" alt="Screenshot 2" width="300" />
 </p>
 
 Welcome to the **Places App project repository!**  
